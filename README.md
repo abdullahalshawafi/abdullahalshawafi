@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Energia Powered Website](https://github.com/EnergiaPowered/official-website)
 
-- 🌱 I’m currently learning **Electron.js,**
+- 🌱 I’m currently learning **Electron.js, React Native**
 
 - 👨‍💻 All of my projects are available at [https://abdullahalshawafi.github.io/Portfolio/](https://abdullahalshawafi.github.io/Portfolio/)
 
