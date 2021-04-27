@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Energia Powered Website](https://github.com/EnergiaPowered/official-website)
 
-- 🌱 I’m currently learning **TypeScript, Electron.js, Next.js, and React Native**
+- 🌱 I’m currently learning **TypeScript, Vue.js, and React Native**
 
 - 👨‍💻 All of my projects are available at [https://abdullahalshawafi.github.io/Portfolio/](https://abdullahalshawafi.github.io/Portfolio/)
 
