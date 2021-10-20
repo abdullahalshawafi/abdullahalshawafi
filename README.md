@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Energia Powered Website](https://github.com/EnergiaPowered/official-website)
 
-- 🌱 I’m currently learning **Vue.js, and React Native**
+- 🌱 I’m currently learning **Laravel, PostgreSQL, and Dockers**
 
-- 💬 Ask me about **C++, Python, JS, Data Structures, Node.js, or React.js**
+- 💬 Ask me about **C++, Python, JS, Data Structures, Algorithms, Node.js and Express.js, or React.js**
 
 - 📫 How to reach me **abdullahadel.aam@gmail,com**
 
