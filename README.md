@@ -16,6 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalshawafi&show_icons=true&locale=en&theme=tokyonight" alt="abdullahalshawafi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalshawafi&theme=tokyonight" alt="abdullahalshawafi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalshawafi&theme=tokyonight" alt="abdullahalshawafi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalshawafi&langs_count=9&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalshawafi&langs_count=9&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
