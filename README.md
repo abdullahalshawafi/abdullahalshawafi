@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalshawafi&" alt="abdullahalshawafi" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdahmedfathi&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalshawafi&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
