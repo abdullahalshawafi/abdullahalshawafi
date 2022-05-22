@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Energia Powered Website](https://github.com/EnergiaPowered/official-website)
 
-- 🌱 I’m currently learning **Laravel, PostgreSQL, and Dockers**
+- 🌱 I’m currently learning **VueJS, Next.js, and Dockers**
 
 - 💬 Ask me about **C++, Python, JS, Data Structures, Algorithms, Node.js and Express.js, or React.js**
 
