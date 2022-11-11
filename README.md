@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalshawafi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abdullahalshawafi" /></p>
 
-<br />
+<p></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalshawafi&show_icons=true&locale=en&theme=tokyonight" alt="abdullahalshawafi" /></p>
 
