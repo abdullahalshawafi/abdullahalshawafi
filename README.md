@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdullah Adel</h1>
-<h3 align="center">A passionate senior Computer Engineering student 💻</h3>
+<h3 align="center">A passionate Software Engineering 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalshawafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalshawafi" /> </p>
 
-- 🔭 I’m currently working on [Hopfab](https://hopfab.com/) as a Backend Engineer
+- 🔭 I’m currently working at [Coformatique](https://coformatique.com/) as a Full-Stack Software Engineer
 
-- 🌱 I’m currently learning **NLP and Next.js**
+- 🌱 I’m currently learning **AWS and Next.js**
 
-- 💬 Ask me about **C++, C#, JS/TS, DSA, Node.js and Express.js, or React.js**
+- 💬 Ask me about **C++, C#, JS/TS, DSA, Node.js, Express.js, Nest.js, or React.js**
 
 - 📫 How to reach me **abdullahadel.aam@gmail.com**
 
