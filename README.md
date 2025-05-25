@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalshawafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalshawafi" /> </p>
 
-- 🔭 I’m currently working at [Walturn](https://walturn.com/) as a Software Engineer
+- 🔭 I’m currently working at [Coformatique](https://coformatique.com/) as a Backend Engineer
 
 - 🌱 I’m currently learning **AWS and Next.js**
 
